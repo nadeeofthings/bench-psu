@@ -1,6 +1,6 @@
 ﻿# DPS3005 Based Bench PSU
 
-This is where all the design files for the **Ginger Wash Plant** is saved. 
+This is where all the design files for the **Bench power supply** is saved. 
 ![Render](https://raw.githubusercontent.com/nadeeofthings/bench-psu/main/Render.png)
 
 # Folders
