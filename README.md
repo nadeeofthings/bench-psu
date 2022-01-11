@@ -5,5 +5,5 @@ This is where all the design files for the **Bench power supply** is saved.
 
 # Folders
 
- - **CAD** - Cad files developped through Fusion360
+ - **CAD** - Cad files developed through Fusion360
  - **STL** - 3D printable files
